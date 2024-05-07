@@ -4007,6 +4007,14 @@
     "modified": "2019-03-23T23:16:57.470Z",
     "contributors": ["teoli", "eliezerb"]
   },
+  "Web/API/Window/origin": {
+    "modified": "2020-10-15T22:14:43.600Z",
+    "contributors": ["Rondinelly"]
+  },
+  "Web/API/Window/performance": {
+    "modified": "2019-03-23T22:44:28.136Z",
+    "contributors": ["augustoclaro"]
+  },
   "Web/API/Window/popstate_event": {
     "modified": "2019-04-26T08:34:23.645Z",
     "contributors": [
@@ -4222,14 +4230,6 @@
   "Web/API/fetch": {
     "modified": "2019-03-23T22:06:21.567Z",
     "contributors": ["dowgssss"]
-  },
-  "Web/API/origin": {
-    "modified": "2020-10-15T22:14:43.600Z",
-    "contributors": ["Rondinelly"]
-  },
-  "Web/API/performance_property": {
-    "modified": "2019-03-23T22:44:28.136Z",
-    "contributors": ["augustoclaro"]
   },
   "Web/API/setInterval": {
     "modified": "2020-10-15T22:16:56.864Z",
